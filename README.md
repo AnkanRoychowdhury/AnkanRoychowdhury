@@ -22,6 +22,8 @@
 
 ## Current Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankanroychowdhury&show_icons=true&locale=en&layout=compact" alt="ankanroychowdhury" /></p>
+| ![Ankan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankanroychowdhury&show_icons=true&locale=en&theme=city_lights) | ![Ankan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ankanroychowdhury&theme=city-lights) |
+| :---: | :---: |
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankanroychowdhury&show_icons=true&locale=en" alt="ankanroychowdhury" /></p>
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ankanroychowdhury&show_icons=true&theme=city_lights) |
+| :---: |

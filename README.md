@@ -1,4 +1,4 @@
-[![MasterHead](https://www.canva.com/design/DAFYR45m6kI/Y6A6fd0dEE0qHBLFRqjKZQ/view?utm_content=DAFYR45m6kI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)]
+[![Ankan's GitHub Banner](./assets/Github Banner.png)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

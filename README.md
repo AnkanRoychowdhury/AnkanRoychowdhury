@@ -1,4 +1,4 @@
-[![Ankan's GitHub Banner](./assets/Github Banner.png)]
+<img src="./assets/Github Banner.png" alt="banner">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
